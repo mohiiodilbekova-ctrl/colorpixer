@@ -1,6 +1,6 @@
-# RangRangi - Professional Ranglar Palitrasi Generatori
+# ColorPixer - Professional Ranglar Palitrasi Generatori
 
-RangRangi — bu sun'iy intellekt (Gemini AI) yordamida yoki tasodifiy usulda ranglar palitrasini yaratish uchun zamonaviy veb-ilova. Ilova "High Density" dizayn interfeysiga ega va foydalanuvchilar uchun ranglar bilan ishlashda maksimal qulaylik yaratadi.
+ColorPixer — bu sun'iy intellekt yordamida yoki tasodifiy usulda ranglar palitrasini yaratish uchun zamonaviy veb-ilova. Ilova "High Density" dizayn interfeysiga ega va foydalanuvchilar uchun ranglar bilan ishlashda maksimal qulaylik yaratadi.
 
 ## 🚀 Xususiyatlari
 
