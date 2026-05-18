@@ -1,0 +1,8 @@
+{
+  "name": "RangRangi - Palitra Generatori",
+  "description": "Ranglar palitrasini tasodifiy yoki sun'iy intellekt yordamida yaratish uchun zamonaviy veb-ilova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
